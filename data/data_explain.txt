@@ -1,0 +1,13 @@
+Title: tên game
+Release date: ngày phát hành
+Platform: Nền tảng chơi game chính
+Other platforms: Các nền tảng khác được hỗ trợ
+Publisher: Nhà phát hành
+Developer: Nhà phát triển
+Genres: Thể loại
+Rating: video game content rating system
+Number of players: số người chơi
+Metascore: điểm số từ nhà phê bình
+Number of critic reviews: số nhà phê bình tham gia reviews
+User Score: điểm số từ người dùng
+Number of user reviews: số người dùng tham gia đánh giá
