@@ -12,8 +12,7 @@ Project 1 của môn Nhập môn Khoa học dữ liệu
 ## Cách hoạt động nhóm
 - Tạo branch để làm việc
 - Push và merge khi hoàn thành (xử lý conflict nếu có)
-- Thêm file jupyter notebook của mình trong folder của từng giai đoạn (đặt tên theo mssv)
-- Kết thúc mỗi giai đoạn sẽ tổng hợp các file notebook lại tạo thành file result.ipynb
+- Làm việc trên file Project-1.ipynb
 
 ## Nội dung
 ### 1. Chủ đề
