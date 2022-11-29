@@ -12,7 +12,6 @@ Project 1 của môn Nhập môn Khoa học dữ liệu
 ## Cách hoạt động nhóm
 - Tạo branch để làm việc
 - Push và merge khi hoàn thành (xử lý conflict nếu có)
-- Làm việc trên file Project-1.ipynb
 
 ## Nội dung
 ### 1. Chủ đề
